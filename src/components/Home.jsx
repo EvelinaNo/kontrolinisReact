@@ -1,7 +1,7 @@
 export const Home = () => {
     return (
     <>
-   Kontrolinis bus
+   Kontrolinis bus čia
     </>
 )
 }
